@@ -461,43 +461,6 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/img\/fancy-cushion.webp" : {
-      "ft" : 8388608,
-      "iS" : 976,
-      "oA" : 0,
-      "oAP" : "\/img\/fancy-cushion.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/img\/ISO-Inverted.png" : {
-      "ft" : 32768,
-      "iS" : 28853,
-      "oA" : 0,
-      "oAP" : "\/img\/ISO-Inverted.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/logo_white.png" : {
-      "ft" : 32768,
-      "iS" : 12187,
-      "oA" : 0,
-      "oAP" : "\/img\/logo_white.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/img\/select-arrow-down-white.png" : {
       "ft" : 32768,
       "iS" : 386,
@@ -3569,7 +3532,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 652874357.77309203,
-    "displayValue" : "walford-round-2023",
+    "displayValue" : "mamdani-opticians-2023",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-koamaru",
     "iconImageWasSetByUser" : 0

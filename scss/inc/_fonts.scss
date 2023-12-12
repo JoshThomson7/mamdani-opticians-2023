@@ -31,23 +31,6 @@
     font-display: swap;
 }
 
-// FENICE
-@font-face {
-    font-family: 'Fenice Bold';
-    src: url('fonts/fenice/fenice-bold.woff2') format('woff2'),
-         url('fonts/fenice/fenice-bold.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Fenice Regular';
-    src: url('fonts/fenice/fenice-regular..woff2') format('woff2'),
-         url('fonts/fenice/fenice-regular..woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
 
 
 
@@ -69,12 +52,12 @@
     font-display: swap;
 }
 
-// @font-face {
-//     font-family: 'Mont';
-//     src: url('fonts/mont/Mont-Bold.woff2') format('woff2'),
-//         url('fonts/mont/Mont-Bold.woff') format('woff');
-//     font-weight: 700;
-//     font-style: normal;
-//     font-display: swap;
-// }
+@font-face {
+    font-family: 'Mont Bold';
+    src: url('fonts/mont/Mont-Bold.woff2') format('woff2'),
+        url('fonts/mont/Mont-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
 

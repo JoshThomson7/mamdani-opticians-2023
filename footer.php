@@ -18,17 +18,28 @@
 					</article>
 
 				<?php endwhile; ?>
-			</div>
-		</div>
 
-		<div class="subfooter footer__social">
-			<div class="max__width">
-				<ul>
-					<li><a href="" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
-					<li><a href="" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
-					<li><a href="" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-					<li><a href="" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-				</ul>
+				<article class="footer__menu footer__details">
+					<h5>Contact <i class="fas fa-chevron-down"></i></h5>
+					<ul>
+						<li>
+							<i class="fa-light fa-location-dot"></i>
+							18 Bridge Street,<br>Bishops Stortford,<br>CM23 2JY
+						</li>
+						<li><i class="fa-light fa-phone"></i> 01279 656 872</li>
+						<li><i class="fa-light fa-envelope"></i> info@mamdaniopticians.co.uk</li>
+					</ul>
+				</article>
+
+				<article class="footer__menu footer__social">
+					<h5>Social <i class="fas fa-chevron-down"></i></h5>
+					<ul>
+						<li><a href="" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
+						<li><a href="" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+						<li><a href="" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
+						<li><a href="" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+					</ul>
+				</article>
 			</div>
 		</div>
 	</footer>
