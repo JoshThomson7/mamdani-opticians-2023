@@ -24,10 +24,10 @@
 					<ul>
 						<li>
 							<i class="fa-light fa-location-dot"></i>
-							18 Bridge Street,<br>Bishops Stortford,<br>CM23 2JY
+							13 Devoils Lane,<br>Bishops Stortford,<br>Herts, CM23 3XH
 						</li>
 						<li><i class="fa-light fa-phone"></i> 01279 656 872</li>
-						<li><i class="fa-light fa-envelope"></i> info@mamdaniopticians.co.uk</li>
+						<li><i class="fa-light fa-envelope"></i> mamdaniopticians@gmail.com</li>
 					</ul>
 				</article>
 
