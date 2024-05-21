@@ -48,6 +48,10 @@
 @import 'layout/footer';
 @import 'inc/themes';
 
+html {
+  scroll-behavior: smooth!important;
+}
+
 .free-primary{
   padding: 20px 10px; background: $primary; color: white!important; border-radius: 16px
 }
