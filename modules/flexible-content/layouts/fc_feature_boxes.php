@@ -28,11 +28,13 @@ if(get_sub_field('feature_boxes_bg')) {
                         <?php the_sub_field('feature_box_heading'); ?>
                     <?php if(get_sub_field('feature_box_button_url')): ?></a><?php endif; ?>
                 </h3>
-
-                <?php the_sub_field('feature_box_content'); ?>
+                
+                <?php if(get_sub_field('feature_box_button_url')): ?><a href="<?php the_sub_field('feature_box_button_url'); ?>"><?php endif; ?>
+                    <?php the_sub_field('feature_box_content'); ?>
+                <?php if(get_sub_field('feature_box_button_url')): ?></a><?php endif; ?>
 
                 <?php
-                    if(get_sub_field('feature_box_button_url') || get_sub_field('feature_box_load_form')):
+                    if(get_sub_field('feature_box_button_url') && get_sub_field('feature_box_button_label')):
                 ?>
                     <a href="<?php the_sub_field('feature_box_button_url'); ?>" class="link animate-icon">
                         <?php the_sub_field('feature_box_button_label'); ?> <i class="fa fa-chevron-right"></i>

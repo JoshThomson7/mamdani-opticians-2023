@@ -4,7 +4,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: var(--fl1-primary);
+	color: var(--fl1-tertiary);
 	line-height: 1.4;
 	margin-bottom: var(--fl1-font-xl);
 	padding: 0;
@@ -39,8 +39,9 @@ p {
 	line-height: 1.5;
 
 	a { 
-		color: var(--fl1-primary);
+		color: var(--fl1-secondary);
 		font-weight: 600;
+		text-decoration: underline;
 	}
 
 	strong {

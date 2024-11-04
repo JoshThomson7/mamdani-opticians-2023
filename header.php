@@ -16,13 +16,12 @@
 	<div id="page">
         <section class="header-banner">
             <header class="header">
-                <?php if(get_field('sitewide_notice_enable', 'option')): ?>
-                    <div class="header--site__wide__notice">
-                        <div class="max__width">
-                            <?php the_field('sitewide_notice', 'option'); ?>
-                        </div>
+                
+                <div class="header--site__wide__notice">
+                    <div class="max__width">
+                        <p>We're now located in Devoils Lane!</p>
                     </div>
-                <?php endif; ?>
+                </div>
 
                 <div class="header__main">
                     <div class="max__width">
